@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SavageCabbagee and I'm trying to learn new stuffu
+- 👋 Hi, I’m @SavageCabbagee and I'm trying to learn new stuff
 
 <!---
 SavageCabbagee/SavageCabbagee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
